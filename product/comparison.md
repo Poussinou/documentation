@@ -15,16 +15,17 @@ Fiscal sponsorship has been a pretty niche service limited mainly to the charity
 
 Open Collective is not a fully-featured accounting platform, but it offers key features for budget tracking and expense management and payment. One feature we offer that most accounting software doesn't is integrated payments for expenses, via Paypal or bank transfer. It means projects don't have to step into the complexity of a full-fledged accounting tool in order to do basic budget tracking and good money management.
 
-| name           | one time donations | recurring donations | fees                                              | transparency (incoming funds) | transparency (spending funds) | Open Source | Designed for...     | Offers fiscal hosting |
+| Name           | One time donations | Recurring donations | Fees                                              | Transparency (incoming funds) | Transparency (spending funds) | Open Source | Designed for...     | Offers fiscal hosting |
 | -------------- | ------------------ | ------------------- | ------------------------------------------------- | ----------------------------- | ----------------------------- | ----------- | ------------------- | --------------------- |
-| OpenCollective | yes                | yes                 | No fees + credit card fees (+ host fees if any\*) | yes                           | yes                           | yes         | Communities         | yes                   |
-| Patreon        | no                 | yes                 | 5% + credit card fees                             | yes                           | no                            | no          | Individual creators | no                    |
-| KickStarter    | yes                | no                  | 5% + credit card fees                             | yes                           | no                            | no          | One-off campaigns   | no                    |
-| GoFundMe       | yes                | no                  | 5% + credit card fees                             | yes                           | no                            | no          | One-off campaigns   | no                    |
+| [OpenCollective](https://opencollective.com/) | yes                | yes                 | No fees + payment processor fees (+ host fees if any\*) | yes                           | yes                           | yes         | Communities         | yes                   |
+| [Liberapay](https://liberapay.com/)        | no                 | yes                 | No fees + payment processor fees                             | yes                           | yes                            | yes          | Individual creators, Communities, Organisation | no                    |
+| [Ko-fi](https://ko-fi.com)        | yes                 | yes                 | No fees + payment processor fees                             | yes                           | no                            | no          | Individual creators, Communities, Organisation | no                    |
+| [Patreon](https://patreon.com/)        | no                 | yes                 | 5% + payment processor fees                             | yes                           | no                            | no          | Individual creators | no                    |
+| [KickStarter](https://kickstarter.com/)    | yes                | no                  | 5% + payment processor fees                             | yes                           | no                            | no          | One-off campaigns   | no                    |
+| [GoFundMe](https://gofundme.com)       | yes                | no                  | 2.9% + $0.30                             | yes                           | no                            | no          | One-off campaigns   | no                    |
 
 ### Can you use Open Collective with other services?&#x20;
 
 You can combine Patreon and Open Collective, check out this great step by step guide.&#x20;
 
 {% embed url="https://blog.opencollective.com/combine-patreon-and-open-collective" %}
-
